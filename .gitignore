@@ -1,0 +1,68 @@
+# ==============================
+# Backend - Spring Boot
+# ==============================
+
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Spring Tool Suite / Eclipse
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings/
+backend/.springBeans
+backend/.sts4-cache
+
+# IntelliJ
+backend/.idea/
+backend/*.iws
+backend/*.iml
+backend/*.ipr
+
+# NetBeans
+backend/nbproject/private/
+backend/nbbuild/
+backend/nbdist/
+backend/.nb-gradle/
+backend/build/
+
+# VS Code
+backend/.vscode/
+
+# Backend secrets
+backend/src/main/resources/application.properties
+
+
+# ==============================
+# Frontend - React / Vite
+# ==============================
+
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Environment / secrets
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Logs
+frontend/logs/
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+# Editors
+frontend/.vscode/
+frontend/.idea/
+frontend/.DS_Store
+
+# Misc
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
