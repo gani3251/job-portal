@@ -1,15 +1,4 @@
-Awesome 🔥 Here is the **polished, recruiter-friendly README** for your combined repository.
-
-Replace the root file:
-
-```text
-C:\Users\Admin\job-portal-fullstack\README.md
-```
-
-with the following:
-
-````markdown
-# 💼 Job Portal & Recruitment System
+💼 Job Portal & Recruitment System
 
 A full-stack web-based **Job Portal & Recruitment System** built using **React, Spring Boot, MySQL, JWT Authentication, Google Gemini AI, and Email Notifications**.
 
